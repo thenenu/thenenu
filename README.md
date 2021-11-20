@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @thenenu
+- 👀 I’m interested in crypto and rust
